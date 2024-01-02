@@ -1,7 +1,7 @@
-###👋 Hi, I’m @DavidSantana01 👋🏾
+Hi, I’m @DavidSantana01 👋🏾
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ds.santos7991)
-[![Whats](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996378177)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ds.santos7991 target="_blank")
+[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996378177)
 
 ## Tecnologias em estudo e formação
 
