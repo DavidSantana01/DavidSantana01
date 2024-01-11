@@ -22,7 +22,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: Ds7991_@outlook.com">
-      <img width="30" src="perspectiva.png">
+      <img width="30" src="Outlook.svg">
     </a>
     <a href = "https://https://www.linkedin.com/in/david-santana01/">
       <img width="25" src="linkedin.svg">
