@@ -1,8 +1,9 @@
-## Hi, I’m @DavidSantana 👋🏾
+## Olá, sou o DavidSantana👋🏾
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSantana&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  ![David Santana](https://github-readme-stats.vercel.app/api?username=DavidSantana&show_icons=true&theme=blue-green)
+  
 </div>
 <br>
 
@@ -21,15 +22,11 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: Ds7991_@outlook.com">
-      <img width="30" src="Outlook.svg">
-    </a>
-    <a href = "https://https://www.linkedin.com/in/david-santana01/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://https://www.instagram.com/ds.santos7991/">
-      <img width="25" src="instagram.png">
-    </a>
+
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santana01/)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996378177)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ds.santos7991)
+   
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
